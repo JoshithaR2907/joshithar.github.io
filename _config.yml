@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Joshitha R"
   avatar           : "profile.png"
-  bio              : "Hello! I am a doctoral student at the Australian Centre for Field Robotics, The University of Sydney, Australia. I explore robotic imaging – the way robots see our world and beyond via research. I currently work on topics related to computational imaging and feature-based reconstruction in visually challenging conditions."
-  location         : "Location"
+  bio              : "Hello! I am a doctoral student at Indian Institute of Technology Madras, Chennai, India. I explore light fields and computational imaging in my reaesrch."
+  location         : "India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=sf5hGhfjlaoC&view_op=list_works&gmla=AJsN-F5mOC7hluCDdwuQcRBaEeZeNqa2Hz25YZaIeC0OUbtMTh1XTzotlLBUOXZQFieDcPv5HViV34BxfY2pNGrkKUgnfPOscz2heQWOoxirlu8w9scPNAs"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "joshithar"
   google_plus      :
   keybase          :
   instagram        :
