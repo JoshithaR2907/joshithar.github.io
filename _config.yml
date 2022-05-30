@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Joshitha R"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Joshitha R"
 description              : &description "Hello! I am a doctoral student at the Australian Centre for Field Robotics, The University of Sydney, Australia. I explore robotic imaging – the way robots see our world and beyond via research. I currently work on topics related to computational imaging and feature-based reconstruction in visually challenging conditions."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Joshitha R"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Hello! I am a doctoral student at the Australian Centre for Field Robotics, The University of Sydney, Australia. I explore robotic imaging – the way robots see our world and beyond via research. I currently work on topics related to computational imaging and feature-based reconstruction in visually challenging conditions."
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=sf5hGhfjlaoC&view_op=list_works&gmla=AJsN-F5mOC7hluCDdwuQcRBaEeZeNqa2Hz25YZaIeC0OUbtMTh1XTzotlLBUOXZQFieDcPv5HViV34BxfY2pNGrkKUgnfPOscz2heQWOoxirlu8w9scPNAs"
+  email            : "ee19d701@smail.iitm.ac.in"
+  researchgate     : "https://www.researchgate.net/profile/Joshitha-Ravishankar"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/joshitha-r-57837667/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8252-1827"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
