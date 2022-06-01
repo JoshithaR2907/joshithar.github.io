@@ -11,9 +11,9 @@ title                    : "Joshitha R"
 title_separator          : "-"
 name                     : &name "Joshitha R"
 description              : &description "Hello! I am a doctoral student at the Australian Centre for Field Robotics, The University of Sydney, Australia. I explore robotic imaging – the way robots see our world and beyond via research. I currently work on topics related to computational imaging and feature-based reconstruction in visually challenging conditions."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://joshithar2907.github.io/joshithar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "JoshithaR2907/joshithar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
