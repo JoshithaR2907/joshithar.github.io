@@ -16,11 +16,12 @@ Hi ! I am Joshitha, a PhD scholar under the Prime Minister's Research Fellowship
 
 Academic Background
 ======
-## Indian Institute of Technology Madras, Chennai  (July 2019 - Present)
-PhD
-Prime Minister’s Research Fellow
-CGPA : 9.35
-Research Advisor : [Dr. Mansi Sharma](https://sites.google.com/site/mansisharmaiitd/)
+
+Indian Institute of Technology Madras, Chennai  (July 2019 - Present)
+:   PhD
+:   Prime Minister’s Research Fellow
+:   CGPA : 9.35
+:   Research Advisor : [Dr. Mansi Sharma](https://sites.google.com/site/mansisharmaiitd/)
 
 Vellore Institute of Technology, Chennai        (2014 - 2018)
 :   B.Tech in Electronics and Communication Engineering
