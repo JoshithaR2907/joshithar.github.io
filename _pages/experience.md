@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Tech in Electronics and Communication Engineering, Vellore Institute of Technology, Chennai, 2014-2018
-* Ph.D in Version Control Theory, Indian Institute of Technolgy, Chennai , 2019 - Present
+* Ph.D, Indian Institute of Technolgy, Chennai , 2019 - Present
 
 Work experience
 ======
