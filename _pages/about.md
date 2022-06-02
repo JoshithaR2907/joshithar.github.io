@@ -16,26 +16,19 @@ Hi ! I am Joshitha, a PhD scholar under the Prime Minister's Research Fellowship
 
 Academic Background
 ======
-Indian Institute of Technology Madras, Chennai (July 2019 - Present)
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+Indian Institute of Technology Madras, Chennai  (July 2019 - Present)
 :   PhD
 :   Prime Minister’s Research Fellow
 :   CGPA : 9.35
 :   Research Advisor : [Dr. Mansi Sharma](https://sites.google.com/site/mansisharmaiitd/)
 
 
-    Indian Institute of Technology Madras, Chennai (July 2019 - Present)
-    PhD
-    Prime Minister’s Research Fellow
-    CGPA : 9.35
-    Research Advisor : Dr. Mansi Sharma (https://sites.google.com/site/mansisharmaiitd/)
-
 <br>
 
-    Vellore Institute of Technology, Chennai (2014 - 2018)
-    B.Tech in Electronics and Communication Engineering
-    CGPA : 9.61
-    Gold medalist
+Vellore Institute of Technology, Chennai        (2014 - 2018)
+:   B.Tech in Electronics and Communication Engineering
+:   CGPA : 9.61
+:   Gold medalist
 
 Relevant Graduate Coursework
 ======
