@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* July 2019- Present: Teaching Assistant
+* IIT-M | Teaching Assistant <span style="float:right">  July 2019- Present </span>
     * EE1102 - ‘Introduction to Programming’ under Dr.Devendra Jalihal (Jan-May 2022)
     * EE5110 - ‘Probability Foundations for Electrical Engineers’ under Dr.Abhishek Sinha (Jul-Nov 2021)
     * EE6130 - ‘Advanced Topics in Signal Processing : Computational Imaging and Displays” under Dr. Mansi Sharma (Jan-May 2021)
@@ -24,20 +24,36 @@ Work experience
     * EE1102 - ‘Introduction to Programming’ under Dr.Devendra Jalihal (Jul-Nov 2019)
 
 
-* Spring 2018: Analog Devices India, Bengaluru (Intern)
+* Analog Devices India, Bengaluru | Intern <span style="float:right">  Feb 2018 - May 2018 </span>     
   * Assisted on basic design of DDR Memory, Memory Interface Generator and modeled DDR Controller
-  * Supervisor: Neelamegam Subramani
+  * Manager: Neelamegam Subramani
 
-* Project Intern
-  
-Skills
+*  Indian Institute of Technology Madras, Chennai | Project Intern    <span style="float:right"> May 2017 - July 2017 </span>   
+    * Worked on ‘Performance Analysis of Wired and Wireless Networks in NetSim and NS-3’. 
+    * Compared and evaluated NetSim and NS-3 for a variety of network scenarios.
+    * Guide: Dr. Venkatesh Ramaiyan
+
+* Centre for Airborne Systems (CABS), DRDO, Bengaluru | Project Trainee <span style="float:right">  Dec 2016</span>
+    * Worked on ‘Signal Processing Techniques for Airborne Radar’. 
+    * The project used techniques like Pulse Compression, Platform Motion Compensation and Moving Target Indication (among others) to detect low flying targets against heavy interference predominated by ground clutter. 
+    * Studied various CFAR schemes based on hypothesis testing and Neyman-Pearson criteria.
+    * Guide: Dr. R Rajesh, Scientist ‘G’
+
+
+
+PMRF Teaching Deliverables
+=====
+
+*ECE4099 - ‘Capstone Project’ under Dr. Annis Fathima A, at Vellore Institute of Technology, Chennai <span style="float:right">  Jan-May 2022</span>
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
