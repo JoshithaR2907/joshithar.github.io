@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech in Electronics and Communication Engineering, Vellore Institute of Technology, Chennai, 2014-2018
+* Ph.D in Version Control Theory, Indian Institute of Technolgy, Chennai , 2019 - Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2019- Present: Teaching Assistant
+    * EE1102 - ‘Introduction to Programming’ under Dr.Devendra Jalihal (Jan-May 2022)
+    * EE5110 - ‘Probability Foundations for Electrical Engineers’ under Dr.Abhishek Sinha (Jul-Nov 2021)
+    * EE6130 - ‘Advanced Topics in Signal Processing : Computational Imaging and Displays” under Dr. Mansi Sharma (Jan-May 2021)
+    * EE3005 - ‘Communication Systems’ under Dr.Devendra Jalihal (Jan-May 2020)
+    * EE1102 - ‘Introduction to Programming’ under Dr.Devendra Jalihal (Jul-Nov 2019)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Spring 2018: Analog Devices India, Bengaluru (Intern)
+  * Assisted on basic design of DDR Memory, Memory Interface Generator and modeled DDR Controller
+  * Supervisor: Neelamegam Subramani
+
+* Project Intern
   
 Skills
 ======
@@ -42,13 +45,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
