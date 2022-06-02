@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Joshitha R"
   avatar           : "jo.png"
-  bio              : "Hello! I am a doctoral student at Indian Institute of Technology Madras, Chennai, India. I explore light fields and computational imaging in my reaesrch."
+  bio              : #"Hello! I am a doctoral student at Indian Institute of Technology Madras, Chennai, India. I explore light fields and computational imaging in my reaesrch."
   location         : "India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
