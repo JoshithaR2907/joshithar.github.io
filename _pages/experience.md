@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
-======
 * Indian Institute of Techology Madras, Chennai | Teaching Assistant |<span style="float:right">  July 2019- Present </span>
     * EE1102 - _‘Introduction to Programming’_ under Dr.Devendra Jalihal (Jan-May 2022)
     * EE5110 - _‘Probability Foundations for Electrical Engineers’_ under Dr.Abhishek Sinha (Jul-Nov 2021)
@@ -36,8 +34,7 @@ Work experience
 
 
 
-PMRF Teaching Deliverables
-=====
+## PMRF Teaching Deliverables
 
 * Vellore Institute of Technology, Chennai | Teaching Assistant and Project Mentor|<span style="float:right">  Jan 2022 - May 2022 </span>
    * ECE4099 - _‘Capstone Project’_ under Dr. Annis Fathima A
