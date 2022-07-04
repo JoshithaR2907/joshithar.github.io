@@ -8,11 +8,13 @@ author_profile: true
 
 ## Refereed Journal Articles
 
-1. **Ravishankar, Joshitha**, and Mansi Sharma,[_"A Hierarchical Approach for Lossy Light field Compression with Multiple Bit Rates Based on Tucker Decomposition via Random Sketching"_](https://ieeexplore.ieee.org/abstract/document/9780365),  IEEE Access (2022).
+1. **Ravishankar, Joshitha**, and Mansi Sharma,[_"An Integrated Learning and Approximation Scheme for Coding of Static or Dynamic Light Fields Based on Hybrid Tucker–Karhunen–Loève transform‐Singular Value Decomposition via Tensor Double Sketching"_](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/sil2.12141), IET Signal Processing (2022).
 
-2. **Ravishankar, Joshitha**, Mansi Sharma, and Sally Khaidem, [_"A Hybrid Tucker-VQ Tensor Sketch Decomposition Model for Coding and Streaming Real World Light Fields using Stack of Differently Focused Images"_](https://www.sciencedirect.com/science/article/pii/S0167865522001465), Pattern Recognition Letters (2022).
+2. **Ravishankar, Joshitha**, and Mansi Sharma,[_"A Hierarchical Approach for Lossy Light field Compression with Multiple Bit Rates Based on Tucker Decomposition via Random Sketching"_](https://ieeexplore.ieee.org/abstract/document/9780365),  IEEE Access (2022).
 
-3. **Ravishankar, Joshitha**, Mansi Sharma, and Pradeep Gopalakrishnan, [_"A Flexible Coding Scheme Based on Block Krylov Subspace Approximation for Light Field Displays with Stacked Multiplicative Layers"_](https://www.mdpi.com/1424-8220/21/13/4574/htm), Sensors 21.13 (2021): 4574.
+3. **Ravishankar, Joshitha**, Mansi Sharma, and Sally Khaidem, [_"A Hybrid Tucker-VQ Tensor Sketch Decomposition Model for Coding and Streaming Real World Light Fields using Stack of Differently Focused Images"_](https://www.sciencedirect.com/science/article/pii/S0167865522001465), Pattern Recognition Letters (2022).
+
+4. **Ravishankar, Joshitha**, Mansi Sharma, and Pradeep Gopalakrishnan, [_"A Flexible Coding Scheme Based on Block Krylov Subspace Approximation for Light Field Displays with Stacked Multiplicative Layers"_](https://www.mdpi.com/1424-8220/21/13/4574/htm), Sensors 21.13 (2021): 4574.
 
 
 
