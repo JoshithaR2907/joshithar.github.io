@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 * Indian Institute of Techology Madras, Chennai | Teaching Assistant |<span style="float:right">  July 2019- Present </span>
-    * EE1102 - _‘Introduction to Programming’_ under Dr.Devendra Jalihal (Jan-May 2022)
+    * EE5179 - _‘Deep Learning for Imaging'_ under Dr.Kaushik Mitra (Jul-Nov 2022)
+    * EE1102 - _‘Introduction to Programming’_ under Dr.Devendra Jalihal (Nov 2022 - March 2023, Jan-May 2022, Jul-Nov 2019)
     * EE5110 - _‘Probability Foundations for Electrical Engineers’_ under Dr.Abhishek Sinha (Jul-Nov 2021)
     * EE6130 - _‘Advanced Topics in Signal Processing : Computational Imaging and Displays”_ under Dr. Mansi Sharma (Jan-May 2021)
     * EE3005 - _‘Communication Systems’_ under Dr.Devendra Jalihal (Jan-May 2020)
-    * EE1102 - _‘Introduction to Programming’_ under Dr.Devendra Jalihal (Jul-Nov 2019)
-
+   
 
 * Analog Devices India, Bengaluru | Intern | <span style="float:right">  Feb 2018 - May 2018 </span>     
   * Assisted on basic design of DDR Memory, Memory Interface Generator and modeled DDR Controller
