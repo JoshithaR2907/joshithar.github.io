@@ -12,7 +12,7 @@ Hi! I am Joshitha, a PhD scholar under the Prime Minister's Research Fellowship 
 - Light field imaging
 - Computer Vision
 - Computational Photography
-- Deep learning for image processing
+- Deep learning for image processing 
 
 Academic Background
 ======
