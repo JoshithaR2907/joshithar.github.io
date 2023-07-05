@@ -36,7 +36,7 @@ redirect_from:
 
 ## PMRF Teaching Deliverables
 
-* Vellore Institute of Technology, Chennai | Teaching Assistant and Project Mentor|<span style="float:right">  Jan 2022 - May 2022 </span>
+* Vellore Institute of Technology, Chennai | Teaching Assistant and Project Mentor|<span style="float:right">  Jan 2022 - May 2023 </span>
    * ECE4099 - _‘Capstone Project’_ under Dr. Annis Fathima A
 
 <!-- Skills
