@@ -20,9 +20,11 @@ author_profile: true
 
 ## Conference Proceedings and Presentations
 
-1. **Ravishankar, Joshitha**, Mansi Sharma, and Sally Khaidem, [_"A Novel Compression Scheme Based on Hybrid Tucker-Vector Quantization Via Tensor Sketching for Dynamic Light Fields Acquired Through Coded Aperture Camera"_](https://ieeexplore.ieee.org/abstract/document/9687155), 2021 International Conference on 3D Immersion (IC3D). IEEE, 2021.
+1. **Ravishankar, Joshitha**, Sally Khaidem, and Mansi Sharma,  [_"A Data-Driven Approach Based on Dynamic Mode Decomposition for Efficient Encoding of Dynamic Light Fields."_](https://openaccess.thecvf.com/content/CVPR2023W/LFNAT/html/Ravishankar_A_Data-Driven_Approach_Based_on_Dynamic_Mode_Decomposition_for_Efficient_CVPRW_2023_paper.html), Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023 (pp. 3446-3452)
 
-2. **Ravishankar, Joshitha**, and Mansi Sharma,  [_"A Hierarchical Coding Scheme for Glasses-free 3D Displays Based on Scalable Hybrid Layered Representation of Real-World Light Fields"_](https://ieeexplore.ieee.org/document/9658584), 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2021.
+2. **Ravishankar, Joshitha**, Mansi Sharma, and Sally Khaidem, [_"A Novel Compression Scheme Based on Hybrid Tucker-Vector Quantization Via Tensor Sketching for Dynamic Light Fields Acquired Through Coded Aperture Camera"_](https://ieeexplore.ieee.org/abstract/document/9687155), 2021 International Conference on 3D Immersion (IC3D). IEEE, 2021.
+
+3. **Ravishankar, Joshitha**, and Mansi Sharma,  [_"A Hierarchical Coding Scheme for Glasses-free 3D Displays Based on Scalable Hybrid Layered Representation of Real-World Light Fields"_](https://ieeexplore.ieee.org/document/9658584), 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2021.
 
 
 
