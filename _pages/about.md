@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi ! I am Joshitha, a PhD scholar under the Prime Minister's Research Fellowship scheme in the Department of Electrical Engineering at Indian Institute of Technology Madras. I love working with images and am in constant awe of advancements in cinematography, computer graphics and 3D technology. My research Interests include:
+Hi! I am Joshitha, a PhD scholar under the Prime Minister's Research Fellowship scheme in the Department of Electrical Engineering at Indian Institute of Technology Madras. I love working with images and am in constant awe of advancements in computer vision, cinematography, and computational imaging. My research Interests include:
 - Light field imaging
 - Computer Vision
 - Computational Photography
@@ -17,11 +17,11 @@ Hi ! I am Joshitha, a PhD scholar under the Prime Minister's Research Fellowship
 Academic Background
 ======
 
-Indian Institute of Technology Madras, Chennai  (July 2019 - Present)
+Indian Institute of Technology Madras, Chennai  (July 2019 - Present)   
 :   PhD
 :   Prime Minister’s Research Fellow
 :   CGPA : 9.35
-:   Research Advisor : [Dr. Mansi Sharma](https://sites.google.com/site/mansisharmaiitd/)
+:   Research Advisors : [Dr. Mansi Sharma](https://sites.google.com/site/mansisharmaiitd/) and [Dr. Kaushik Mitra](https://www.ee.iitm.ac.in/kmitra/index.html)
 
 Vellore Institute of Technology, Chennai        (2014 - 2018)
 :   B.Tech in Electronics and Communication Engineering
