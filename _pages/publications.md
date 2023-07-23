@@ -27,7 +27,6 @@ author_profile: true
 2. **Ravishankar, Joshitha**, Mansi Sharma, and Sally Khaidem, [_"A Novel Compression Scheme Based on Hybrid Tucker-Vector Quantization Via Tensor Sketching for Dynamic Light Fields Acquired Through Coded Aperture Camera"_](https://ieeexplore.ieee.org/abstract/document/9687155), 2021 International Conference on 3D Immersion (IC3D). IEEE, 2021.
 
 3. **Ravishankar, Joshitha**, and Mansi Sharma,  [_"A Hierarchical Coding Scheme for Glasses-free 3D Displays Based on Scalable Hybrid Layered Representation of Real-World Light Fields"_](https://ieeexplore.ieee.org/document/9658584), 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2021.
-4. gjkgkhklhlk
 
 
 
