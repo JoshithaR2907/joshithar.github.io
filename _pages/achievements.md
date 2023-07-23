@@ -15,3 +15,4 @@ redirect_from:
 - Best Outgoing Player Award of the Basketball from VITC, batch 2018
 - Captain of the VITC girls basketball team during 2016-2018
 - Member of the IIT Madras Girls' Basketball team (2019-present)
+- GRW
